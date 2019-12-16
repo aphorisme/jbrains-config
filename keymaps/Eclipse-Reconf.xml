@@ -1,0 +1,90 @@
+<keymap version="1" name="Eclipse-Reconf">
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="t" />
+    <keyboard-shortcut first-keystroke="altGraph f" second-keystroke="t" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="u" />
+    <keyboard-shortcut first-keystroke="altGraph s" second-keystroke="u" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="altGraph f" second-keystroke="c" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="period" />
+    <keyboard-shortcut first-keystroke="altGraph f" second-keystroke="period" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="altGraph f" second-keystroke="f" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="i" />
+    <keyboard-shortcut first-keystroke="altGraph f" second-keystroke="i" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="n" />
+    <keyboard-shortcut first-keystroke="altGraph f" second-keystroke="n" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="i" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="period" />
+    <keyboard-shortcut first-keystroke="altGraph r" second-keystroke="period" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="altGraph r" second-keystroke="r" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="altGraph r" second-keystroke="f" />
+  </action>
+  <action id="Rust.CargoCommand">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="altGraph c" second-keystroke="c" />
+  </action>
+  <action id="Rust.RunExternalLinter">
+    <keyboard-shortcut first-keystroke="alt c" second-keystroke="l" />
+    <keyboard-shortcut first-keystroke="altGraph c" second-keystroke="l" />
+  </action>
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="ctrl alt f12" />
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="altGraph f" second-keystroke="p" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="altGraph s" second-keystroke="s" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift alt z" />
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="altGraph r" second-keystroke="s" />
+  </action>
+  <action id="ToolWindowsGroup">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="Unwrap">
+    <keyboard-shortcut first-keystroke="alt r" second-keystroke="u" />
+    <keyboard-shortcut first-keystroke="altGraph r" second-keystroke="shift u" />
+  </action>
+</keymap>
