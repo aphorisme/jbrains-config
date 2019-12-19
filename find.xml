@@ -1,15 +1,16 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="Project 'Qoniac.Ovalis.DataImport.Test'" />
+    <option name="defaultScopeName" value="Project 'Qoniac.Ovalis.DataImport.Test'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Project 'Qoniac.Ovalis.DataImport.Test'" />
     <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.xaml</mask>
+    <mask>*.config</mask>
     <mask>*.cs</mask>
   </component>
 </application>
