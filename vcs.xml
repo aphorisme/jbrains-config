@@ -1,4 +1,14 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.qoniac.com" />
+          <option name="userName" value="Philipp.Pfeiffer" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_DIFF_PREVIEW" value="true" />
   </component>
