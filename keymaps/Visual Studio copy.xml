@@ -26,6 +26,9 @@
   <action id="DatabaseView.Refresh" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="s" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift f12" />
     <keyboard-shortcut first-keystroke="ctrl alt s" second-keystroke="u" />
@@ -124,6 +127,7 @@
   <action id="UpdateRunningApplication" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
