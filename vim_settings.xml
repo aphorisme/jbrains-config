@@ -2,6 +2,43 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>)</entry>
+        <entry>set</entry>
+        <entry>nor</entry>
+        <entry>D</entry>
+        <entry>mdf</entry>
+        <entry>.</entry>
+        <entry>=</entry>
+        <entry>,</entry>
+        <entry>new</entry>
+        <entry>CreateAlignmentPhase</entry>
+        <entry>GetValue(s</entry>
+        <entry>Deseriaize(</entry>
+        <entry>Deserialize(</entry>
+        <entry>SwitchPanelCont</entry>
+        <entry encoding="base64">XDxQdWJsaXNoTW9kZWxTZXRDaGFuZ2VkRXZlbnRcPg==</entry>
+        <entry>ComputationState</entry>
+        <entry>FilteredContextTypes</entry>
+        <entry>SeparatorTemplate</entry>
+        <entry>DataSeparation</entry>
+        <entry encoding="base64">XDxEYXRhU2VwYXJhdGlvblBhbmVsVmlld01vZGVsXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action AceTargetAction</entry>
+        <entry>action AceAction</entry>
+        <entry>W</entry>
+        <entry>Wq</entry>
+        <entry>wqw</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -65,6 +102,259 @@
         <text>shift ctrl pressed COMMA</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1583745027834">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/Interactivity/BreakdownContextGroupCreationHandler.cs" timestamp="1583490455309">
+        <mark key="[" line="45" column="75" />
+        <mark key="]" line="45" column="75" />
+        <mark key="." line="45" column="75" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.Vendor/ASML/DataLayer/ADELmetrology/AdelMetrologyOverlayMeasurement.cs" timestamp="1589876729752">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/Service/PlotToExcelExporterBase.cs" timestamp="1583829621062">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/Interactivity/DataTags/BreakdownLineParameterDataTag.cs" timestamp="1583498980273">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="38" />
+        <mark key="." line="46" column="38" />
+        <mark key="^" line="46" column="38" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/TrendsTab/BasicPlot/Model/BasicChartDataTag.cs" timestamp="1583498914212">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+      </file>
+      <file name="/a.sql" timestamp="1583143869044">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1583855149057">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/View/DataSeparationPanelView.xaml" timestamp="1582880860710">
+        <mark key="'" line="35" column="41" />
+        <mark key="[" line="98" column="13" />
+        <mark key="]" line="98" column="24" />
+        <mark key="." line="98" column="24" />
+        <mark key="^" line="98" column="24" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/View/BreakdownPlotView.xaml" timestamp="1582813913542">
+        <mark key="'" line="71" column="22" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/Model/BreakdownPlotBuilderBase.cs" timestamp="1582798767295">
+        <mark key="[" line="114" column="65" />
+        <mark key="]" line="114" column="63" />
+        <mark key="^" line="114" column="63" />
+        <mark key="." line="114" column="63" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/core/Sources/Core/Server/Core.StagingManager/ILinkManager.cs" timestamp="1583229129751">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/DataSeparationPanelViewModel.ContextIsolation.cs" timestamp="1583856948813">
+        <mark key="[" line="129" column="9" />
+        <mark key="]" line="131" column="88" />
+        <mark key="^" line="131" column="88" />
+        <mark key="." line="131" column="88" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/ContextSelectionPanelViewModel.cs" timestamp="1582705860989">
+        <mark key="[" line="380" column="12" />
+        <mark key="]" line="383" column="166" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/Events/CdParameterChangedEvent.cs" timestamp="1582705183394">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="140" column="11" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/DoseCorrectionResult.cs" />
+      <jump line="12" column="0" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/DoseCorrectionResult.cs" />
+      <jump line="19" column="0" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Common/Helpers/Either.cs" />
+      <jump line="9" column="11" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdModelValuesExtension.cs" />
+      <jump line="108" column="27" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/ResultView/Wafer/VectorPlotDoseCorrectionResultsAdapter.cs" />
+      <jump line="11" column="12" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/DoseCorrectionModelBuilder.cs" />
+      <jump line="88" column="16" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/JasperCalculationJob.cs" />
+      <jump line="78" column="40" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/JasperCalculationJob.cs" />
+      <jump line="121" column="27" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/JasperCalculationJob.cs" />
+      <jump line="148" column="0" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/Result/DoseCorrectionResult.cs" />
+      <jump line="73" column="39" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdFeatureResultExtensions.cs" />
+      <jump line="86" column="15" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdFeatureResultExtensions.cs" />
+      <jump line="87" column="11" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdFeatureResultExtensions.cs" />
+      <jump line="98" column="19" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdFeatureResultExtensions.cs" />
+      <jump line="92" column="19" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdFeatureResultExtensions.cs" />
+      <jump line="140" column="31" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/JasperCalculationJob.cs" />
+      <jump line="56" column="11" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdWaferResultExtensions.cs" />
+      <jump line="57" column="11" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdWaferResultExtensions.cs" />
+      <jump line="58" column="14" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdWaferResultExtensions.cs" />
+      <jump line="185" column="19" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdFeatureResultExtensions.cs" />
+      <jump line="186" column="19" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdFeatureResultExtensions.cs" />
+      <jump line="75" column="34" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdFeatureResult.cs" />
+      <jump line="183" column="50" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdFeatureResultExtensions.cs" />
+      <jump line="40" column="0" filename="$USER_HOME$/sources/repos/suite/Sources/Contract/Jade/Domain/Result/CdFeatureResultExtensions.cs" />
+      <jump line="93" column="15" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/Input/DoseCorrectionInputWafers.cs" />
+      <jump line="94" column="15" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/Input/DoseCorrectionInputWafers.cs" />
+      <jump line="62" column="11" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/Input/DoseCorrectionInputLots.cs" />
+      <jump line="63" column="74" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/Input/DoseCorrectionInputLots.cs" />
+      <jump line="57" column="16" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jade/Managers/CdWaferResultExtensions.cs" />
+      <jump line="58" column="15" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jade/Managers/CdWaferResultExtensions.cs" />
+      <jump line="59" column="15" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jade/Managers/CdWaferResultExtensions.cs" />
+      <jump line="108" column="85" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/JasperCalculationJob.cs" />
+      <jump line="60" column="25" filename="C:/BuildLauncher_v1.3.2/BuildLauncher.exe.config" />
+      <jump line="15" column="12" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.Test/Vendor/ASML/BusinessLayer/DataParser/AsmlFocusMapProviderTest.cs" />
+      <jump line="49" column="27" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.Vendor/ASML/BusinessLayer/DataParser/AsmlFocusMapProvider.cs" />
+      <jump line="21" column="37" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.Vendor/ASML/BusinessLayer/DataParser/AsmlFocusMapProvider.cs" />
+      <jump line="8" column="87" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Server/Configuration/dataAccess.local.config" />
+      <jump line="100" column="110" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/JasperCalculationJob.cs" />
+      <jump line="225" column="19" filename="$USER_HOME$/sources/repos/suite/Sources/Test/Client/Jasper/WaferTab/VectorPlot/ViewModel/JasperVectorPlotViewModelTest.cs" />
+      <jump line="229" column="19" filename="$USER_HOME$/sources/repos/suite/Sources/Test/Client/Jasper/WaferTab/VectorPlot/ViewModel/JasperVectorPlotViewModelTest.cs" />
+      <jump line="235" column="19" filename="$USER_HOME$/sources/repos/suite/Sources/Test/Client/Jasper/WaferTab/VectorPlot/ViewModel/JasperVectorPlotViewModelTest.cs" />
+      <jump line="240" column="19" filename="$USER_HOME$/sources/repos/suite/Sources/Test/Client/Jasper/WaferTab/VectorPlot/ViewModel/JasperVectorPlotViewModelTest.cs" />
+      <jump line="245" column="31" filename="$USER_HOME$/sources/repos/suite/Sources/Test/Client/Jasper/WaferTab/VectorPlot/ViewModel/JasperVectorPlotViewModelTest.cs" />
+      <jump line="246" column="19" filename="$USER_HOME$/sources/repos/suite/Sources/Test/Client/Jasper/WaferTab/VectorPlot/ViewModel/JasperVectorPlotViewModelTest.cs" />
+      <jump line="250" column="19" filename="$USER_HOME$/sources/repos/suite/Sources/Test/Client/Jasper/WaferTab/VectorPlot/ViewModel/JasperVectorPlotViewModelTest.cs" />
+      <jump line="252" column="21" filename="$USER_HOME$/sources/repos/suite/Sources/Test/Client/Jasper/WaferTab/VectorPlot/ViewModel/JasperVectorPlotViewModelTest.cs" />
+      <jump line="190" column="41" filename="$USER_HOME$/sources/repos/suite/Sources/Test/Client/Jasper/WaferTab/VectorPlot/ViewModel/JasperVectorPlotViewModelTest.cs" />
+      <jump line="198" column="17" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/Jasper/WaferTab/VectorPlot/ViewModel/JasperVectorPlotViewModel.cs" />
+      <jump line="12" column="85" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/Input/DoseCorrectionInputLots.cs" />
+      <jump line="24" column="32" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/Input/DoseCorrectionInputLots.cs" />
+      <jump line="25" column="45" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jasper/Managers/Calculation/Input/DoseCorrectionInputLots.cs" />
+      <jump line="51" column="74" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.Test/Vendor/ASML/BusinessLayer/DataParser/AsmlFocusMapProviderTest.cs" />
+      <jump line="33" column="34" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.Test/Vendor/ASML/BusinessLayer/DataParser/AsmlFocusMapProviderTest.cs" />
+      <jump line="36" column="19" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.Test/Vendor/ASML/BusinessLayer/DataParser/AsmlFocusMapProviderTest.cs" />
+      <jump line="58" column="62" filename="$USER_HOME$/sources/repos/core/Sources/Core/Test/Contract/Core.Contract/Domain/Serialization/ContextSerializerTest.cs" />
+      <jump line="75" column="7" filename="$USER_HOME$/sources/repos/core/Sources/Core/Test/Server/Core.Server/Repositories/Mappers/LotMeasurementContextDataMapperTest.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/sources/repos/core/Sources/Core/Test/Server/Core.Server/Repositories/Mappers/LotMeasurementContextDataMapperTest.cs" />
+      <jump line="445" column="12" filename="$USER_HOME$/sources/repos/core/Sources/Core/Server/Core.StagingManager/Repositories/LotRepository.cs" />
+      <jump line="70" column="8" filename="$USER_HOME$/sources/repos/core/Sources/Core/Contract/Core.Contract/Domain/Serialization/Context/DeserializedList.cs" />
+      <jump line="21" column="3" filename="$USER_HOME$/sources/repos/core/Sources/Core/Client/Modules/LotSelection/ViewModel/LotInformation/SubrecipeListEntry.cs" />
+      <jump line="340" column="19" filename="$USER_HOME$/sources/repos/core/Sources/Core/Server/Core.StagingManager/Repositories/TemporaryStorageRepository.cs" />
+      <jump line="28" column="20" filename="$USER_HOME$/sources/repos/core/Sources/Core/Client/Modules/LotSelection/ViewModel/LotInformation/LotInformationTreeViewModelBase.cs" />
+      <jump line="220" column="24" filename="$USER_HOME$/sources/repos/core/Sources/Core/Test/Server/Core.Server/Repositories/WaferContextRepositoryTest.cs" />
+      <jump line="47" column="0" filename="$USER_HOME$/sources/repos/core/Sources/Core/Client/Modules/LotSelection/ViewModel/LotInformation/AsmlLotInformationTreeViewModel.cs" />
+      <jump line="61" column="16" filename="$USER_HOME$/sources/repos/core/Sources/Core/Client/Modules/LotSelection/ViewModel/LotInformation/AsmlLotInformationTreeViewModel.cs" />
+      <jump line="2" column="0" filename="$USER_HOME$/sources/repos/core/Sources/Core/Client/Modules/LotSelection/ViewModel/LotInformation/LotInformationTreeViewModelBase.cs" />
+      <jump line="152" column="12" filename="$USER_HOME$/sources/repos/core/Sources/Core/Contract/Core.Contract/Domain/Serialization/Context/ContextSerializer.cs" />
+      <jump line="244" column="71" filename="$USER_HOME$/sources/repos/core/Sources/Core/Contract/Core.Contract/Domain/Serialization/Context/ContextSerializer.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/sources/repos/core/Sources/Core/Test/Client/LotSelection/ViewModel/LotInformationViewModelTest.cs" />
+      <jump line="21" column="20" filename="$USER_HOME$/sources/repos/core/Sources/Core/Test/Client/LotSelection/ViewModel/LotInformationViewModelTest.cs" />
+      <jump line="34" column="20" filename="$USER_HOME$/sources/repos/core/Sources/Core/Test/Client/LotSelection/ViewModel/LotInformationViewModelTest.cs" />
+      <jump line="45" column="19" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.Data/Serializer/Implementation/SerializeManager.cs" />
+      <jump line="995" column="29" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.Test/Vendor/ASML/BusinessLayer/DataParser/AsmlAlignmentParserTest.cs" />
+      <jump line="42" column="36" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.IntegrationTest/Top1756_AdditionalExposureContext/Top1756.cs" />
+      <jump line="105" column="32" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.IntegrationTest/MdlTests/MdlLicenseSettingsTest/MdlLicenseSettingsTest.cs" />
+      <jump line="160" column="11" filename="$USER_HOME$/sources/repos/core/Sources/Core/Test/Contract/Core.Contract/Domain/Serialization/ContextSerializerTest.cs" />
+      <jump line="246" column="39" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport.Vendor/ASML/BusinessLayer/DataParser/AsmlAlignmentParser.cs" />
+      <jump line="219" column="64" filename="$USER_HOME$/sources/repos/core/Sources/Core/Client/Modules/LotSelection/ViewModel/LotInformation/AsmlLotInformationTreeViewModel.cs" />
+      <jump line="113" column="105" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/ThresholdPanelViewModel.cs" />
+      <jump line="13" column="48" filename="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.Ovalis.DataImport/Configuration/dataImport.config" />
+      <jump line="1" column="0" filename="C:/temp/DataImport/Intel_F11X_CD_Amat_FTP_File_Limit/5.5.0/DataImportModule.config" />
+      <jump line="72" column="66" filename="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jade/Managers/ResultView/Tools/BreakdownPlotCdResultsAdapter.cs" />
+      <jump line="209" column="21" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/ComputationPanel/ComputationPanelViewModel.cs" />
+      <jump line="138" column="166" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/ComputationPanel/ComputationPanelViewModel.cs" />
+      <jump line="67" column="12" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/Service/PlotToExcelExporterBase.cs" />
+      <jump line="72" column="12" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/Service/PlotToExcelExporterBase.cs" />
+      <jump line="65" column="8" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/BreakdownPlotViewModelBase.EventHandling.cs" />
+      <jump line="24" column="52" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/BreakdownPlotViewModelBase.EventHandling.cs" />
+      <jump line="43" column="86" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/BreakdownPlotViewModelBase.EventHandling.cs" />
+      <jump line="127" column="11" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/BreakdownPlotViewModelBase.EventHandling.cs" />
+      <jump line="26" column="0" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/BreakdownPlotViewModelBase.EventHandling.cs" />
+      <jump line="0" column="71" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/View/DataSeparationPanelView.xaml" />
+      <jump line="106" column="52" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/View/DataSeparationPanelView.xaml" />
+      <jump line="101" column="20" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/View/DataSeparationPanelView.xaml" />
+      <jump line="35" column="41" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/View/DataSeparationPanelView.xaml" />
+      <jump line="0" column="87" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/View/BreakdownPlotView.xaml" />
+      <jump line="65" column="69" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/View/BreakdownPlotView.xaml" />
+      <jump line="71" column="22" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/View/BreakdownPlotView.xaml" />
+      <jump line="13" column="25" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/DataSeparationPanelViewModel.ContextIsolation.cs" />
+      <jump line="117" column="51" filename="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/DataSeparationPanelViewModel.ContextIsolation.cs" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <text encoding="base64">UmVzb2x2ZTxJRXZlbnRBZ2dyZWdhdG9yPigpCiAgICAgICAgICAgICAgICAuR2V0RXZlbnQ8V29ya2luZ1NldFBhbmVsQ2hhbmdlZEV2ZW50PigpCiAgICAgICAgICAgICAgICAuUHVibGlzaChuZXcgV29ya2luZ1NldFBhbmVsQ2hhbmdlZEV2ZW50QXJncyhuYW1lb2YoQ29tcHV0YXRpb25QYW5lbCksIG51bGwsIGZhbHNlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFRyaWdnZXJQbG90R2VuZXJhdGlvbiA9IHRydWUKICAgICAgICAgICAgICAgIH0pOw==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Dictionary</text>
+      </register>
+      <register name="e" type="4">
+        <text>throw new InvalidCastException();</text>
+      </register>
+      <register name="-" type="4">
+        <text>Dictionary</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxEYXRhU2VwYXJhdGlvblBhbmVsVmlld01vZGVsXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>{
+                        var lot = CreateLot(context, measurementType, null);
+                        lot.Wafers.AddRange(CreateWafers(adelMetrology, measurementType, context));
+                        lotList.Add(lot);
+                        break;
+                    }</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CgogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIHdhZmVyIGluIGF2YWlsYWJsZVdhZmVycykKICAgICAgICAgICAgICAgIHsKCiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB2YXIgdmFsdWUgPSBzZXBhcmF0aW9uQ29udGV4dC5HZXRWYWx1ZUZvcldhZmVyT3JMb3QoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBoYXNoU2V0RGljdCA9IG5ldyBEaWN0aW9uYXJ5PG9iamVjdCwgSGFzaFNldDxHdWlkPj4oKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIERhdGFTZXBhcmF0aW9uTWFzc0NvbnRleHQgbWFzc0NvbnRleHQ6Cg==</text>
+      </register>
+      <register name="y" type="4">
+        <text>throw</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxEYXRhU2VwYXJhdGlvblBhbmVsVmlld01vZGVsXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxEYXRhU2VwYXJhdGlvblBhbmVsVmlld01vZGVsXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
