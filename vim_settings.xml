@@ -109,6 +109,12 @@
       <file name="/Dummy.txt" timestamp="1583745027834">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.MassContextImporter.Customer.Winbond/Parser/WinbondXmlContextParser.cs" timestamp="1589953954529">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="66" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/Interactivity/BreakdownContextGroupCreationHandler.cs" timestamp="1583490455309">
         <mark key="[" line="45" column="75" />
         <mark key="]" line="45" column="75" />
@@ -153,6 +159,12 @@
         <mark key="." line="98" column="24" />
         <mark key="^" line="98" column="24" />
       </file>
+      <file name="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.MassContextImporter.Customer.Winbond/Repository/Implementation/MassContextRepository.cs" timestamp="1589953973837">
+        <mark key="[" line="34" column="73" />
+        <mark key="]" line="34" column="35" />
+        <mark key="^" line="34" column="35" />
+        <mark key="." line="34" column="34" />
+      </file>
       <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/View/BreakdownPlotView.xaml" timestamp="1582813913542">
         <mark key="'" line="71" column="22" />
       </file>
@@ -161,6 +173,11 @@
         <mark key="]" line="114" column="63" />
         <mark key="^" line="114" column="63" />
         <mark key="." line="114" column="63" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.MassContextImporter.Test/Customers/Winbond/ContextParserTest.cs" timestamp="1589954131342">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/sources/repos/core/Sources/Core/Server/Core.StagingManager/ILinkManager.cs" timestamp="1583229129751">
         <mark key="[" line="8" column="0" />
@@ -292,14 +309,14 @@
       <register name="a" type="4">
         <text encoding="base64">UmVzb2x2ZTxJRXZlbnRBZ2dyZWdhdG9yPigpCiAgICAgICAgICAgICAgICAuR2V0RXZlbnQ8V29ya2luZ1NldFBhbmVsQ2hhbmdlZEV2ZW50PigpCiAgICAgICAgICAgICAgICAuUHVibGlzaChuZXcgV29ya2luZ1NldFBhbmVsQ2hhbmdlZEV2ZW50QXJncyhuYW1lb2YoQ29tcHV0YXRpb25QYW5lbCksIG51bGwsIGZhbHNlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFRyaWdnZXJQbG90R2VuZXJhdGlvbiA9IHRydWUKICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Dictionary</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgUW9uaWFjLk1hc3NDb250ZXh0SW1wb3J0ZXIuRGF0YS5Qb2NvOwo=</text>
       </register>
       <register name="e" type="4">
         <text>throw new InvalidCastException();</text>
       </register>
       <register name="-" type="4">
-        <text>Dictionary</text>
+        <text encoding="base64">LCBvdXQgTGlzdDxNYXNzQ29udGV4dD4gbWFzc0NvbnRleHQpOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEYXRhU2VwYXJhdGlvblBhbmVsVmlld01vZGVsXD4=</text>
@@ -313,31 +330,36 @@
                     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgUW9uaWFjLk1hc3NDb250ZXh0SW1wb3J0ZXIuRGF0YS5Qb2NvOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgogICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIHdhZmVyIGluIGF2YWlsYWJsZVdhZmVycykKICAgICAgICAgICAgICAgIHsKCiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJldHVybnM+VHJ1ZSBpZiBwYXJzaW5nIGhhcyBiZWVuIHN1Y2Nlc3NmdWwsIG90aGVyd2lzZSBmYWxzZTwvcmV0dXJucz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB2YXIgdmFsdWUgPSBzZXBhcmF0aW9uQ29udGV4dC5HZXRWYWx1ZUZvcldhZmVyT3JMb3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InBhcnNpbmdFeGNlcHRpb24iPkdldHMgYSBwb3NzaWJsZSBwYXJzaW5nIGV4Y2VwdGlvbi4gQXZhaWxhYmxlIGluIGNhc2UgdGhlIFRyeVBhcnNlIG1ldGhvZCByZXR1cm5lZCBmYWxzZS48L3BhcmFtPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBoYXNoU2V0RGljdCA9IG5ldyBEaWN0aW9uYXJ5PG9iamVjdCwgSGFzaFNldDxHdWlkPj4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNpbmdFeGNlcHRpb24gPSBudWxsOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>}
+            catch (Exception e)
+            {
+                parsingException = e;
+                return false;
+            }</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIERhdGFTZXBhcmF0aW9uTWFzc0NvbnRleHQgbWFzc0NvbnRleHQ6Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHRyeQogICAgICAgICAgICB7</text>
       </register>
       <register name="y" type="4">
         <text>throw</text>
