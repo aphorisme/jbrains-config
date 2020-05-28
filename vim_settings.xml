@@ -140,12 +140,6 @@
         <mark key="]" line="245" column="0" />
         <mark key="." line="245" column="0" />
       </file>
-      <file name="/Dummy.cs" timestamp="1583855149057">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.MassContextImporter.Customer.Winbond/Repository/Implementation/MassContextRepository.cs" timestamp="1589953973837">
         <mark key="[" line="34" column="73" />
         <mark key="]" line="34" column="35" />
@@ -157,12 +151,6 @@
         <mark key="]" line="150" column="24" />
         <mark key="." line="150" column="23" />
         <mark key="^" line="150" column="24" />
-      </file>
-      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Modules/ToolsTab/BreakdownPlot/ViewModel/DataSeparationPanelViewModel.ContextIsolation.cs" timestamp="1583856948813">
-        <mark key="[" line="129" column="9" />
-        <mark key="]" line="131" column="88" />
-        <mark key="^" line="131" column="88" />
-        <mark key="." line="131" column="88" />
       </file>
       <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/DbtoOptimizationScenarios.cs" timestamp="1590654804163">
         <mark key="[" line="8" column="16" />
@@ -181,15 +169,25 @@
         <mark key="^" line="32" column="15" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/Breakdown/Marks/CdBreakdownModelType.Zernike.cs" timestamp="1590654337465">
-        <mark key="[" line="20" column="49" />
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/Breakdown/Marks/CdBreakdownModelType.Zernike.cs" timestamp="1590666009683">
+        <mark key="[" line="22" column="122" />
+        <mark key="]" line="22" column="125" />
+        <mark key="^" line="22" column="125" />
+        <mark key="." line="22" column="124" />
       </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/ZernikeLegendreCoefficientMapper.cs" timestamp="1590666112198" />
       <file name="/AlnOvlOptimizationScenarios.cs" timestamp="1590653934446" />
       <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/DbtoResultFactory.cs" timestamp="1590665961367">
         <mark key="[" line="11" column="62" />
         <mark key="]" line="12" column="8" />
         <mark key="^" line="12" column="8" />
         <mark key="." line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/AlnOvlOptimizationScenarios.AlignmentOverlayCombination.cs" timestamp="1590666066582">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="30" column="27" />
+        <mark key="^" line="30" column="27" />
+        <mark key="." line="30" column="26" />
       </file>
       <file name="$USER_HOME$/sources/repos/dataImport/Sources/Qoniac.MassContextImporter.Test/Customers/Winbond/ContextParserTest.cs" timestamp="1589954131342">
         <mark key="[" line="4" column="0" />
