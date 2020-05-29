@@ -140,8 +140,8 @@
         <mark key="^" line="32" column="15" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/Extraction/Models/ModelRecipeBaseExtension.cs" timestamp="1590737060626">
-        <mark key="[" line="30" column="62" />
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/Extraction/Models/ModelRecipeBaseExtension.cs" timestamp="1590741499480">
+        <mark key="[" line="31" column="119" />
         <mark key="]" line="30" column="89" />
         <mark key="." line="30" column="88" />
         <mark key="^" line="30" column="89" />
@@ -189,18 +189,24 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/Extraction/ParameterExtraction.cs" timestamp="1590737322446">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="7" />
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/Extraction/ParameterExtraction.cs" timestamp="1590741401341">
+        <mark key="[" line="216" column="43" />
+        <mark key="]" line="216" column="43" />
+        <mark key="^" line="216" column="28" />
+        <mark key="." line="216" column="43" />
       </file>
-      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/Extraction/Models/WaferModelDataExtension.cs" timestamp="1590737118267">
-        <mark key="'" line="54" column="145" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="15" column="8" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Test/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/Extraction/ParameterExtractionTest.cs" timestamp="1590741765872">
+        <mark key="[" line="86" column="30" />
+        <mark key="]" line="86" column="32" />
+        <mark key="^" line="86" column="32" />
+        <mark key="." line="86" column="31" />
+      </file>
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/Extraction/Models/WaferModelDataExtension.cs" timestamp="1590741460718">
+        <mark key="'" line="48" column="145" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="/AlnOvlStrategyResult.cs" timestamp="1590663935993">
         <mark key="[" line="35" column="12" />
@@ -316,7 +322,7 @@
         <text encoding="base64">UmVzb2x2ZTxJRXZlbnRBZ2dyZWdhdG9yPigpCiAgICAgICAgICAgICAgICAuR2V0RXZlbnQ8V29ya2luZ1NldFBhbmVsQ2hhbmdlZEV2ZW50PigpCiAgICAgICAgICAgICAgICAuUHVibGlzaChuZXcgV29ya2luZ1NldFBhbmVsQ2hhbmdlZEV2ZW50QXJncyhuYW1lb2YoQ29tcHV0YXRpb25QYW5lbCksIG51bGwsIGZhbHNlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFRyaWdnZXJQbG90R2VuZXJhdGlvbiA9IHRydWUKICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;Unsupported OVL model type:\r\nsimultaneous true-wafer-position and intra-field-coefficients is inconsistent&quot;);</text>
+        <text>true</text>
       </register>
       <register name="e" type="4">
         <text>throw new InvalidCastException();</text>
@@ -325,7 +331,7 @@
         <text encoding="base64">aWYgKCFfbW9kZWxJbml0aWFsaXplZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX21vZGVsSW5pdGlhbGl6ZWQgPSB0cnVlOwogICAgICAgICAgICAgICAgX21vZGVsVHlwZSA9IFdhZmVyQ29ycmVjdGlvbk1vZGVsVHlwZUV4dHJhY3Rvci5FeHRyYWN0QWxuT3ZsRGJ0b01vZGVsKFN0cmF0ZWd5LCAoKSA9PiBMYXlvdXRJbmZvcm1hdGlvbi5GaWVsZExheW91dCwgb3V0IF9tb2RlbFR5cGVFcnJvck1lc3NhZ2UpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Unsupported OVL model type:\r\nsimultaneous true-wafer-position and intra-field-coefficients is inconsistent&quot;);</text>
+        <text>true</text>
       </register>
       <register name="m" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIE11bHRpRGltZW5zaW9uV2FmZXIgOiBJTXVsdGlEaW1lbnNpb25XYWZlcgogICAgewogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgRGljdGlvbmFyeTxEaW1lbnNpb25JbmZvcm1hdGlvbiwgSU1lYXN1cmVkV2FmZXI+IF9zY2FsYXJXYWZlckJ5RGltOwoKICAgICAgICBpbnRlcm5hbCBNdWx0aURpbWVuc2lvbldhZmVyKERpY3Rpb25hcnk8RGltZW5zaW9uSW5mb3JtYXRpb24sIElNZWFzdXJlZFdhZmVyPiBzY2FsYXJXYWZlckJ5RGltKQogICAgICAgIHsKICAgICAgICAgICAgICAgIF9zY2FsYXJXYWZlckJ5RGltID0gc2NhbGFyV2FmZXJCeURpbTsKICAgICAgICB9CgogICAgICAgICAgICBwdWJsaWMgSUVudW1lcmFibGU8TWVhc3VyZWRNYXJrPiBHZXRNYXJrc0ZvckRpbWVuc2lvbihEaW1lbnNpb25JbmZvcm1hdGlvbiBkaW0pCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBfc2NhbGFyV2FmZXJCeURpbVtkaW1dLk5vbkZseWVyTWFya3M7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBJTWVhc3VyZWRXYWZlciBHZXRTaW5nbGVEaW1lbnNpb25XYWZlcihEaW1lbnNpb25JbmZvcm1hdGlvbiBkaW0pCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBfc2NhbGFyV2FmZXJCeURpbVtkaW1dOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
@@ -336,40 +342,38 @@
       <register name="/" type="4">
         <text encoding="base64">XDxEYXRhU2VwYXJhdGlvblBhbmVsVmlld01vZGVsXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-                        var lot = CreateLot(context, measurementType, null);
-                        lot.Wafers.AddRange(CreateWafers(adelMetrology, measurementType, context));
-                        lotList.Add(lot);
-                        break;
-                    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBbVGVzdENhc2UobmV3W10geyBDeDAwLCBDeDExLCBDeTAyMTAgfSwgZmFsc2UpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzaW11bHRhbmVvdXMgdHJ1ZS13YWZlci1wb3NpdGlvbiBhbmQgaW50cmEtZmllbGQtY29lZmZpY2llbnRzIGlzIGluY29uc2lzdGVudCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiB3YWZlck1vZGVsLlNlbGVjdGVkUGFyYW1ldGVycy5BbnkoCiAgICAgICAgICAgICAgICBwYXJhbSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGlmIChwYXJhbS5UcnlHZXRBdHRyaWJ1dGVWYWx1ZTxNb2RlbFBhcmFtZXRlckluZGljZXM+KG91dCB2YXIgaW5kaWNlcykpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gaW5kaWNlcy5JICE9IDAgfHwgaW5kaWNlcy5KICE9IDA7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzY2FuIGRpcmVjdGlvbiBmaW5lIG1vZGVscyBub3Qgc3VwcG9ydGVkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="t" type="2">
+        <text encoding="base64">ICAgICAgICBbVGVzdENhc2UobmV3W10geyBDeDAwLCBDeDExLCBDeDAyMTAgfSwgdHJ1ZSldCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIE5ld0xpbmUgPSBFbnZpcm9ubWVudC5OZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzaW11bHRhbmVvdXMgdHJ1ZS13YWZlci1wb3NpdGlvbiBhbmQgaW50cmEtZmllbGQtY29lZmZpY2llbnRzIGlzIGluY29uc2lzdGVudCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlcnJvck1lc3NhZ2UgPSAiTm8gd2FmZXIgbW9kZWwgYW5kIG5vIGZpZWxkIGZpbmUgbW9kZWwgc2VsZWN0ZWQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzY2FuIGRpcmVjdGlvbiBmaW5lIG1vZGVscyBub3Qgc3VwcG9ydGVkIikK</text>
       </register>
       <register name="y" type="4">
         <text>throw</text>
