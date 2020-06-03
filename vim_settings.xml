@@ -32,8 +32,8 @@
         <entry>W</entry>
         <entry>Wq</entry>
         <entry>wqw</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -195,15 +195,17 @@
         <mark key="^" line="86" column="32" />
         <mark key="." line="86" column="31" />
       </file>
+      <file name="C:/BuildLauncher_v2.1.1/BuildLauncher.exe.config" timestamp="1591186424946">
+        <mark key="[" line="59" column="46" />
+        <mark key="]" line="58" column="104" />
+        <mark key="." line="58" column="103" />
+        <mark key="^" line="58" column="104" />
+      </file>
       <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/Extraction/Models/WaferModelDataExtension.cs" timestamp="1590746233382">
         <mark key="'" line="48" column="145" />
         <mark key="[" line="24" column="18" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="/AlnOvlStrategyResult.cs" timestamp="1590663935993">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="39" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -315,7 +317,7 @@
         <text encoding="base64">UmVzb2x2ZTxJRXZlbnRBZ2dyZWdhdG9yPigpCiAgICAgICAgICAgICAgICAuR2V0RXZlbnQ8V29ya2luZ1NldFBhbmVsQ2hhbmdlZEV2ZW50PigpCiAgICAgICAgICAgICAgICAuUHVibGlzaChuZXcgV29ya2luZ1NldFBhbmVsQ2hhbmdlZEV2ZW50QXJncyhuYW1lb2YoQ29tcHV0YXRpb25QYW5lbCksIG51bGwsIGZhbHNlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFRyaWdnZXJQbG90R2VuZXJhdGlvbiA9IHRydWUKICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>D</text>
       </register>
       <register name="e" type="4">
         <text>throw new InvalidCastException();</text>
@@ -324,7 +326,7 @@
         <text encoding="base64">aWYgKCFfbW9kZWxJbml0aWFsaXplZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX21vZGVsSW5pdGlhbGl6ZWQgPSB0cnVlOwogICAgICAgICAgICAgICAgX21vZGVsVHlwZSA9IFdhZmVyQ29ycmVjdGlvbk1vZGVsVHlwZUV4dHJhY3Rvci5FeHRyYWN0QWxuT3ZsRGJ0b01vZGVsKFN0cmF0ZWd5LCAoKSA9PiBMYXlvdXRJbmZvcm1hdGlvbi5GaWVsZExheW91dCwgb3V0IF9tb2RlbFR5cGVFcnJvck1lc3NhZ2UpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>D</text>
       </register>
       <register name="m" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIE11bHRpRGltZW5zaW9uV2FmZXIgOiBJTXVsdGlEaW1lbnNpb25XYWZlcgogICAgewogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgRGljdGlvbmFyeTxEaW1lbnNpb25JbmZvcm1hdGlvbiwgSU1lYXN1cmVkV2FmZXI+IF9zY2FsYXJXYWZlckJ5RGltOwoKICAgICAgICBpbnRlcm5hbCBNdWx0aURpbWVuc2lvbldhZmVyKERpY3Rpb25hcnk8RGltZW5zaW9uSW5mb3JtYXRpb24sIElNZWFzdXJlZFdhZmVyPiBzY2FsYXJXYWZlckJ5RGltKQogICAgICAgIHsKICAgICAgICAgICAgICAgIF9zY2FsYXJXYWZlckJ5RGltID0gc2NhbGFyV2FmZXJCeURpbTsKICAgICAgICB9CgogICAgICAgICAgICBwdWJsaWMgSUVudW1lcmFibGU8TWVhc3VyZWRNYXJrPiBHZXRNYXJrc0ZvckRpbWVuc2lvbihEaW1lbnNpb25JbmZvcm1hdGlvbiBkaW0pCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBfc2NhbGFyV2FmZXJCeURpbVtkaW1dLk5vbkZseWVyTWFya3M7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBJTWVhc3VyZWRXYWZlciBHZXRTaW5nbGVEaW1lbnNpb25XYWZlcihEaW1lbnNpb25JbmZvcm1hdGlvbiBkaW0pCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBfc2NhbGFyV2FmZXJCeURpbVtkaW1dOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
@@ -372,7 +374,7 @@
         <text>throw</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
