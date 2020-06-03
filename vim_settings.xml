@@ -143,7 +143,7 @@
       <file name="$USER_HOME$/sources/repos/suite/Sources/Server/Modules/Jade/Managers/Calculation/CdModeling/CdModelResultCalculationBase.cs" timestamp="1590672106031">
         <mark key="[" line="125" column="64" />
       </file>
-      <file name="$USER_HOME$/sources/repos/suite/Sources/Test/Integration/IntegrationTest/Tests/Qac378/Qac378.cs" timestamp="1591087235343">
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Test/Integration/IntegrationTest/Tests/Qac378/Qac378.cs" timestamp="1591188943604">
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
@@ -166,11 +166,11 @@
         <mark key="." line="20" column="100" />
         <mark key="^" line="20" column="101" />
       </file>
-      <file name="$USER_HOME$/sources/repos/suite/Sources/Test/Integration/IntegrationTest/Tests/Qac1059/Qac1059.cs" timestamp="1591188222345">
-        <mark key="[" line="76" column="20" />
-        <mark key="]" line="76" column="64" />
-        <mark key="." line="76" column="63" />
-        <mark key="^" line="76" column="64" />
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Test/Integration/IntegrationTest/Tests/Qac1059/Qac1059.cs" timestamp="1591188979819">
+        <mark key="[" line="72" column="53" />
+        <mark key="]" line="77" column="64" />
+        <mark key="." line="77" column="63" />
+        <mark key="^" line="77" column="64" />
       </file>
       <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/AlnOvlStrategyResult.cs" timestamp="1590664021366">
         <mark key="[" line="149" column="60" />
