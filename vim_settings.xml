@@ -166,10 +166,11 @@
         <mark key="." line="20" column="100" />
         <mark key="^" line="20" column="101" />
       </file>
-      <file name="$USER_HOME$/sources/repos/suite/Sources/Test/Integration/IntegrationTest/Tests/Qac1059/Qac1059.cs" timestamp="1591251027100">
-        <mark key="[" line="78" column="70" />
-        <mark key="]" line="78" column="70" />
-        <mark key="." line="78" column="70" />
+      <file name="$USER_HOME$/sources/repos/suite/Sources/Test/Integration/IntegrationTest/Tests/Qac1059/Qac1059.cs" timestamp="1591253790887">
+        <mark key="[" line="78" column="61" />
+        <mark key="]" line="78" column="66" />
+        <mark key="." line="78" column="65" />
+        <mark key="^" line="78" column="66" />
       </file>
       <file name="$USER_HOME$/sources/repos/suite/Sources/Client/Client/Results/Tabs/Tools/DataBasedTemplateOptimizer/AlnOvl/AlnOvlStrategyResult.cs" timestamp="1590664021366">
         <mark key="[" line="149" column="60" />
@@ -316,7 +317,7 @@
         <text encoding="base64">UmVzb2x2ZTxJRXZlbnRBZ2dyZWdhdG9yPigpCiAgICAgICAgICAgICAgICAuR2V0RXZlbnQ8V29ya2luZ1NldFBhbmVsQ2hhbmdlZEV2ZW50PigpCiAgICAgICAgICAgICAgICAuUHVibGlzaChuZXcgV29ya2luZ1NldFBhbmVsQ2hhbmdlZEV2ZW50QXJncyhuYW1lb2YoQ29tcHV0YXRpb25QYW5lbCksIG51bGwsIGZhbHNlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFRyaWdnZXJQbG90R2VuZXJhdGlvbiA9IHRydWUKICAgICAgICAgICAgICAgIH0pOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>287</text>
+        <text>Field</text>
       </register>
       <register name="e" type="4">
         <text>throw new InvalidCastException();</text>
@@ -325,7 +326,7 @@
         <text encoding="base64">aWYgKCFfbW9kZWxJbml0aWFsaXplZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX21vZGVsSW5pdGlhbGl6ZWQgPSB0cnVlOwogICAgICAgICAgICAgICAgX21vZGVsVHlwZSA9IFdhZmVyQ29ycmVjdGlvbk1vZGVsVHlwZUV4dHJhY3Rvci5FeHRyYWN0QWxuT3ZsRGJ0b01vZGVsKFN0cmF0ZWd5LCAoKSA9PiBMYXlvdXRJbmZvcm1hdGlvbi5GaWVsZExheW91dCwgb3V0IF9tb2RlbFR5cGVFcnJvck1lc3NhZ2UpOwogICAgICAgICAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>287</text>
+        <text>Field</text>
       </register>
       <register name="m" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIE11bHRpRGltZW5zaW9uV2FmZXIgOiBJTXVsdGlEaW1lbnNpb25XYWZlcgogICAgewogICAgICAgIHByaXZhdGUgcmVhZG9ubHkgRGljdGlvbmFyeTxEaW1lbnNpb25JbmZvcm1hdGlvbiwgSU1lYXN1cmVkV2FmZXI+IF9zY2FsYXJXYWZlckJ5RGltOwoKICAgICAgICBpbnRlcm5hbCBNdWx0aURpbWVuc2lvbldhZmVyKERpY3Rpb25hcnk8RGltZW5zaW9uSW5mb3JtYXRpb24sIElNZWFzdXJlZFdhZmVyPiBzY2FsYXJXYWZlckJ5RGltKQogICAgICAgIHsKICAgICAgICAgICAgICAgIF9zY2FsYXJXYWZlckJ5RGltID0gc2NhbGFyV2FmZXJCeURpbTsKICAgICAgICB9CgogICAgICAgICAgICBwdWJsaWMgSUVudW1lcmFibGU8TWVhc3VyZWRNYXJrPiBHZXRNYXJrc0ZvckRpbWVuc2lvbihEaW1lbnNpb25JbmZvcm1hdGlvbiBkaW0pCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBfc2NhbGFyV2FmZXJCeURpbVtkaW1dLk5vbkZseWVyTWFya3M7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBJTWVhc3VyZWRXYWZlciBHZXRTaW5nbGVEaW1lbnNpb25XYWZlcihEaW1lbnNpb25JbmZvcm1hdGlvbiBkaW0pCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBfc2NhbGFyV2FmZXJCeURpbVtkaW1dOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
